@@ -120,7 +120,7 @@ A general knowledge prompt can be routed to `llama3.2:3b`, while a coding prompt
 
 ## 📄License
 
-Choose an open-source license before publishing the repository publicly.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📸Screenshots
 
