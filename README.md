@@ -144,3 +144,16 @@ Choose an open-source license before publishing the repository publicly.
 
 ### Simple Request Routing
 ![Simple request routing](screenshots/simple-request-routing.png)
+
+
+## 👩‍💻 Author
+
+**Keerthana Dhandapani**  
+Computer Science and Engineering Student
+
+- GitHub: https://github.com/Dhandapanikeerthana
+- LinkedIn: https://linkedin.com/in/keerthana-d-07839531a/
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
